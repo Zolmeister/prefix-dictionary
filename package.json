@@ -1,6 +1,6 @@
 {
   "name": "prefix-dictionary",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Checking words by prefix tree",
   "main": "index.js",
   "scripts": {
